@@ -1,4 +1,4 @@
-onth = str(input('Введите месяц '))
+month = str(input('Введите месяц '))
 day = int(input('Введите число: '))
 
 if month == 'январь' and day >= 19 or month == 'февраль' and day  <=20:
